@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DASASARANYA
-- 👀 I’m interested in watching movies and reading books
-- 🌱 I’m currently learning b.e
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m a working professional with 1 year of experience
+- 💞️ I’m looking to collaborate on beginner projects in data analytics
 - 📫 How to reach me dasasaisaranya2000@gmail.com
 
 <!---
